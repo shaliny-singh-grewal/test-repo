@@ -1,3 +1,0 @@
-# DEMO
-
-# some desc
